@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/innisfree/static/css/main.a26f52ce.css",
-    "main.js": "/innisfree/static/js/main.c7296931.js",
+    "main.js": "/innisfree/static/js/main.05823fa8.js",
     "static/media/brandStory_bg0201.png": "/innisfree/static/media/brandStory_bg0201.eb91c3258c36c6f5b6e3.png",
     "static/media/brandStory_bg0101.png": "/innisfree/static/media/brandStory_bg0101.7aac3f1653e36082cfc2.png",
     "static/media/brandStory_bg0301.png": "/innisfree/static/media/brandStory_bg0301.14fe01c8c5cccb047bf3.png",
@@ -14,10 +14,10 @@
     "static/media/bg_live_typo.png": "/innisfree/static/media/bg_live_typo.d46642761329af2969e7.png",
     "index.html": "/innisfree/index.html",
     "main.a26f52ce.css.map": "/innisfree/static/css/main.a26f52ce.css.map",
-    "main.c7296931.js.map": "/innisfree/static/js/main.c7296931.js.map"
+    "main.05823fa8.js.map": "/innisfree/static/js/main.05823fa8.js.map"
   },
   "entrypoints": [
     "static/css/main.a26f52ce.css",
-    "static/js/main.c7296931.js"
+    "static/js/main.05823fa8.js"
   ]
 }
